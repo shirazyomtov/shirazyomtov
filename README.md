@@ -1,4 +1,7 @@
-## Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shiraz Yom Tov!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Shiraz Yom Tov!
+
+Welcome to my GitHub profile! I’m a recent computer science graduate with a passion for software development and a diverse skill set across multiple programming languages and technologies.<br/>
+My journey through various projects has equipped me with hands-on experience in developing robust applications, exploring advanced design patterns, and leveraging cutting-edge tools and technologies. 
 
 ### Main projects
 #### HighTeach: A Platform for Connecting Students and Tutors <a href="https://github.com/shirazyomtov/HighTeach"><img src="https://github.com/shirazyomtov/HighTeach/blob/main/static/images/HighTeach_logo.jpeg?raw=true" width="40" alt="HighTeach Logo" style="border-radius: 50%;"></a>
